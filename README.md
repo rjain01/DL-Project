@@ -16,7 +16,7 @@ In this project, we've have tried to implement the original paper of [DETR: End-
 2. Sanjana Gattraddy
 3. Vartika Vaish
 4. Riya Jain
-5. Gaurang patel
+5. Gaurang Kachhia
 
 
 ### Data Preparation
